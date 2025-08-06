@@ -1,0 +1,16 @@
+UnityProjects/MyNewProject/Builds
+UnityProjects/MyNewProject/Library
+UnityProjects/MyNewProject/Temp
+UnityProjects/MyNewProject/Logs
+UnityProjects/MyNewProject/*.sln
+UnityProjects/MyNewProject/*.csproj
+UnityProjects/MyNewProject/.vs
+UnityProjects/MyNewProject/obj
+UnityProjects/MyNewProject/.vsconfig
+UnityProjects/MyNewProject/UserSettings
+UnityProjects/MyNewProject/.plastic
+
+# Visual Studio Settings, Solution User Options, .NET/MSBuild
+UnityProjects/MyNewProject/*.user
+UnityProjects/MyNewProject/*.suo
+UnityProjects/MyNewProject/*.proj
